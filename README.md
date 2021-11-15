@@ -7,6 +7,10 @@ As a result of possible altered reading and math grades belonging to the 9th gra
 
 [Modified Analysis](https://github.com/MaxV6ft4/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
+For each of the seven metrics I have added a 'before' and 'after' picture of the affected data frames.  For the last four metrics there will be two 'before' and two 'after' pictures.  The 'before' picture(s) will appear before the indented line; the 'after' picture(s) will appear after that line.
+
+  ![Old District Summary](https://github.com/MaxV6ft4/School_District_Analysis/blob/main/Screenshots/Old_District_Summary.png)
+  
 - The District Summaries were near identical.  Only the average math score changed, dropping by 0.1 from 79.0 to 78.9.
 - The School Summaries, however, contained greater changes in values pertaining to Thomas High.
   - the average math score went down by 0.067412
